@@ -40,12 +40,12 @@ So you needed to invest 141.90$ per day to have 1 unit today, worth 93441.89$.
 
 #### Example Output price action from 2024-01-01 to 2025-04-23:
 
-![Price in time](images\prices_in_time.png)
+![Price in time](images/prices_in_time.png)
 *BTC-USD and ETH-USD continuous line because of trading 24/7, while the rest is dashed.*
 
 #### Example Output adjusted price action from 2024-01-01 to 2025-04-23:
 
-![Adjusted price in time](images\adjusted_prices_in_time.png)
+![Adjusted price in time](images/adjusted_prices_in_time.png)
 *BTC-USD and ETH-USD continuous line because of trading 24/7, while the rest is dashed.*
 
 ## 📚 What I learned
